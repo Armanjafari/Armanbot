@@ -20,7 +20,6 @@ Unofficial Bot
 ============
 خب در این مرحله شما باید ادرس پیج مارو وارد کنید یعنی این ادرس 
 
-**https://github.com/pAyDaAr/Iranian_Bot**
 
 ![testtt](http://s3.picofile.com/file/8221048884/%D9%8264%D8%BA.png)
 
@@ -84,8 +83,6 @@ cd Iranian_Bot
 
 **شما باید ادرس زیر رو ادیت کنید**
 
-**https://github.com/pAyDaAr/Iranian_Bot.git**
-
 شما باید به جای
 
 PAydaar ای دی اک گیتابتون و
@@ -116,12 +113,3 @@ cd Iranian_Bot
 
 **و ربات شما نصب میشود**
 
-تماس با ما
-================
-[AmIr_PayDaAr](https://telegram.me/Amir_paydaar)
-
-and my friend [hacker13v](https://telegram.me/hacker13v)
-
-[**Support With Group**](https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA)
-
-**https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA**
